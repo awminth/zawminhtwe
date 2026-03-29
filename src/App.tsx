@@ -75,7 +75,7 @@ function Hero() {
         {/* Image container with white frame */}
         <div className="bg-white p-4 rounded-[2rem] shadow-2xl shadow-slate-200/50 max-w-md w-full">
           <img 
-            src="/assets/profile.jpg" 
+            src="/zawminhtwe/assets/profile.jpg" 
             alt="Zaw Min Htwe" 
             className="w-full h-auto rounded-[1.5rem] object-cover aspect-[4/5]"
           />

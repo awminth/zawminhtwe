@@ -43,7 +43,7 @@ export default function About() {
             </p>
             <div className="flex gap-4">
               <a 
-                href="/assets/resume.pdf"
+                href="/zawminhtwe/assets/resume.pdf"
                 download="Zaw_Min_Htwe_Resume.pdf"
                 className="px-6 py-3 rounded-lg bg-slate-900 text-white font-medium hover:bg-slate-800 transition-colors inline-flex justify-center items-center"
               >
